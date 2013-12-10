@@ -24,7 +24,7 @@ Commands
 
 &nbsp;&nbsp;&nbsp;&nbsp;Just like |:Ldo|, but asks for confirmation before changing each file.
 
-Author
-------
+Credits
+-------
 
-Cdo was written by Peter Jaros (peeja).
+Cdo was written by Peter Jaros ([@peeja](https://github.com/Peeja/)), with contributions from Danielle Sucher ([@DanielleSucher](https://github.com/DanielleSucher/)).
