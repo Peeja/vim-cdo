@@ -30,7 +30,7 @@ In order for `:Cdo` to function, you must add the following line to your .vimrc 
 
 `set hidden`
 
-Set hidden allows the buffers to stay open while `:cdo` makes changes to each file in the list.
+Set hidden allows the buffers to stay open while `:Cdo` makes changes to each file in the list.
 
 
 Credits
