@@ -24,6 +24,15 @@ Commands
 
 &nbsp;&nbsp;&nbsp;&nbsp;Just like |:Ldo|, but asks for confirmation before changing each file.
 
+Setup
+-------
+In order for `:Cdo` to function, you must add the following line to your .vimrc file:
+
+`set hidden`
+
+Set hidden allows the buffers to stay open while `:cdo` makes changes to each file in the list.
+
+
 Credits
 -------
 
