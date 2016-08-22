@@ -1,3 +1,7 @@
+*The Cdo plugin is now deprecated. [Vim 8 adds almost identical native `:cdo` and `:ldo` commands, with additional functionality.](https://vimhelp.appspot.com/version8.txt.html#new-items-8)*
+
+---
+
 Cdo
 ===
 Example: Find every instance of foo in the working directory and replace it with bar.
